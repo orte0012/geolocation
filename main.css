@@ -1,0 +1,20 @@
+body{
+    min-height: 100vh;
+    text-align: center;
+    font-size: 15px;
+
+}
+#map{
+    border:2px solid rgb(241, 8, 8);
+    width: 70vw;
+    height: 60vh;
+    margin: 0 auto;
+}
+#msg{
+    width: 78vw;
+    padding: 20px;
+    background-color: lightblue;
+    color: #3e3eda;
+    text-align: center;
+    margin: 10px auto;
+}
