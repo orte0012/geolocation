@@ -29,7 +29,7 @@ lng: position.coords.longitude
         var marker = new google.maps.Marker({
             position: {
                 lat: position.coords.latitude,
-lng: position.coords.longitude
+                lng: position.coords.longitude
             },
             map: map,
             title: 'You are Here!',
